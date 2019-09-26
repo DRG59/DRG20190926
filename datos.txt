@@ -1,8 +1,0 @@
-1.- crear proyecto java application
-llamado: TestJUnit001
-
-2.- Crear un java package
-
-3.- Crear un java class llamada calculadora, dentro del package modelo
-
-4.- Crear una clase CalculadoraTest con las pruebas unitarias
